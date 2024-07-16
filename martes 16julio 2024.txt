@@ -1,1 +1,5 @@
 hoy aprendí a como crear githud
+
+también aprendí como se configura y 
+que un archivo readme es un archivo de modo texto que viene una instrucción de como se debe de utilizar un software, esto siempre va al principio de usar un software.
+las licencias soy para darnos ciertos permisos de poder configurar nuestro software sin ninguna restricción y que para llevar acbo un ide en un proyecto en despliegue tienen que pasar por ciertos métodos
