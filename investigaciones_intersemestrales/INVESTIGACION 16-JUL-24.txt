@@ -1,0 +1,21 @@
+¿QUE ES  UN Archivo README?
+un archivo readme es un archivo de modo texto esto puede contener información de un software como instrucciones de instalación,configuracion otra información para los usuarios o desarrolladores que trabajen en esto.
+en pocas palabras es una guía que los desarrolladores incluyan de como utilizar su software de manera correcta.
+
+
+
+¿QUE ES GIT IGNORE?
+ se utiliza para repositorios  de git esto para que no se agregue archivos que se deben ignorar solo los archivos específicos sobre el software
+
+
+
+¿QUE EXISTE ENTRE EL DESARROLLO EN IDE Y UN PROYECTO EN DESPLIEGUE?
+-PRUEBAS DE CODIGO
+-CONTROL DE VERSIONES
+-INTEGRACION CONTINUA
+-EMPAQUETADO Y CONSTRUCCION 
+-GESTION DE DEPENDENCIAS
+
+¿A QUE ME DA DERECHO UNA LICENCIA?
+NOS OTORGA  PODER CONFIGURAR,USAR EL SOFTWARE SIN NINGUNA RESTRICCION
+ 
